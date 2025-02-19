@@ -1,0 +1,51 @@
+[ {
+  "ID" : "1",
+  "Name" : "John Doe",
+  "Email" : "john.doe@example.com",
+  "Phone" : "1234567890"
+}, {
+  "ID" : "2",
+  "Name" : "Alice Smith",
+  "Email" : "alice.smith@domain",
+  "Phone" : "987654321"
+}, {
+  "ID" : "3",
+  "Name" : "Bob Johnson",
+  "Email" : "bob.johnson@company.org",
+  "Phone" : "0987654321"
+}, {
+  "ID" : "4",
+  "Name" : "Charlie Brown",
+  "Email" : "charlie.brown@",
+  "Phone" : "12345"
+}, {
+  "ID" : "5",
+  "Name" : "Eve Adams",
+  "Email" : "eve.adams123@email.com",
+  "Phone" : "1112223333"
+}, {
+  "ID" : "6",
+  "Name" : "Frank White",
+  "Email" : "frank.white@website",
+  "Phone" : "9999"
+}, {
+  "ID" : "7",
+  "Name" : "Grace Lee",
+  "Email" : "grace.lee@email",
+  "Phone" : "555-555-5555"
+}, {
+  "ID" : "8",
+  "Name" : "Hannah Kim",
+  "Email" : "hannah.kim@domain.com",
+  "Phone" : "7777777777"
+}, {
+  "ID" : "9",
+  "Name" : "Isaac Clarke",
+  "Email" : "isaac.clarke@org",
+  "Phone" : "abcd1234"
+}, {
+  "ID" : "10",
+  "Name" : "Jack Wilson",
+  "Email" : "jack.wilson@example.com",
+  "Phone" : "123456784"
+} ]
